@@ -1,11 +1,46 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "study_programmes": [
+        {
+            "sp_title": "Fysik",
+            "sp_id": "78dwygu78w",
+            "sp_faculty": "NAT",
+            "sp_faculty_id": "f9843nfew",
+            "sp_category": "Bachelor"
+        },
+        {
+            "sp_title": "Fysik",
+            "sp_id": "few732few",
+            "sp_faculty": "NAT",
+            "sp_faculty_id": "f9843nfew",
+            "sp_category": "Kandidat"
+        },
+        {
+            "sp_title": "Fysik og Teknologi",
+            "sp_id": "fewt432h653",
+            "sp_faculty": "TEK",
+            "sp_faculty_id": "y3lkweji89r3kl",
+            "sp_category": "Bachelor"
+        },
+        {
+            "sp_title": "Fysik og Teknologi",
+            "sp_id": "e7wbmowp",
+            "sp_faculty": "TEK",
+            "sp_faculty_id": "y3lkweji89r3kl",
+            "sp_category": "Kandidat"
+        },
+        {
+            "sp_title": "Softwareingeniør",
+            "sp_id": "lksas073n",
+            "sp_faculty": "TEK",
+            "sp_faculty_id": "y3lkweji89r3kl",
+            "sp_category": "Bachelor"
+        },
+        {
+            "sp_title": "Softwareingeniør",
+            "sp_id": "iuh8732jh",
+            "sp_faculty": "TEK",
+            "sp_faculty_id": "y3lkweji89r3kl",
+            "sp_category": "Kandidat"
+        }
+    ]
 }
